@@ -192,7 +192,7 @@ export default function Page() {
                   technologies: ["React Native"],
                   github: "https://github.com/Prashidha0O1/loveletter_gen",
                   live: "https://github.com/Prashidha0O1/loveletter_gen/releases/tag/Beta",
-                  image: "/Cupid.png",
+                  image: "./Cupid.png",
                 },
                 {
                   title: "ChiyaKindeu",
@@ -200,7 +200,7 @@ export default function Page() {
                   technologies: ["Rust", "HTML", "CSS"],
                   github: "https://github.com/Prashidha0O1/crowdfund",
                   live: "",
-                  image: "/chiya.PNG",
+                  image: "./chiya.PNG",
                 },
                 {
                   title: "Movie Recommendator",
@@ -208,7 +208,7 @@ export default function Page() {
                   technologies: ["Rust"],
                   github: "https://github.com/Prashidha0O1/movie-recommendator",
                   live: "",
-                  image: "/movie.webp",
+                  image: "./movie.webp",
                 },
                 {
                   title: "Lightweight Docker Container",
@@ -216,7 +216,7 @@ export default function Page() {
                   technologies: ["Go"],
                   github: "https://github.com/Prashidha0O1/cocker",
                   live: "",
-                  image: "/docker.jpg",
+                  image: "./docker.jpg",
                 },
                 {
                   title: "Password Manager",
@@ -224,7 +224,7 @@ export default function Page() {
                   technologies: ["Rust", "TypeScript", "JavaScript", "Tauri"],
                   github: "https://github.com/Prashidha0O1/PasswordsManager",
                   live: "",
-                  image: "/Dashboard.png",
+                  image: "./Dashboard.png",
                 },
               ].map((project, index) => (
                 <div
