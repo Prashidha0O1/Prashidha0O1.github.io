@@ -32,7 +32,7 @@ export default function Page() {
             <h1 className="text-4xl font-bold">Prashidha Rawal</h1>
             <p className="text-xl text-zinc-400 mt-2">Full Stack Developer</p>
             <p className="text-sm text-zinc-400 mt-3 text-center md:text-left">
-             an optimist with a cynical outlook (not cracked).
+             Arranging 0s and 1s in just the right order.
             </p>
           </div>
 
