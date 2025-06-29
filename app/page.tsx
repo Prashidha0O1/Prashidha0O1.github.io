@@ -69,9 +69,6 @@ export default function Page() {
               <p>
                 I&apos;m a 20-year-old undergraduate student and indie full stack developer. I enjoy building apps with Go, Rust, and TypeScript, focusing on tools that are straightforward and solve real problems.
               </p>
-              <p>
-                I&apos;ve worked on personal projects and internships, diving into both frontend and backend development. I love the challenge of creating fast, reliable software and learning new ways to make development easier.
-              </p>
             </div>
           </section>
 
