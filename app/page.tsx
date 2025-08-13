@@ -13,15 +13,34 @@ export default function Page() {
   }
 
   const experiences = [
-    {
-      title: "Software Engineer Intern",
-      company: "Sillicon Tech Nepal",
-      period: "May 2023 - June 2024",
-      description:
-        "Built mobile and web apps using React Native, TypeScript, and Node.js, focusing on clean code and user-friendly interfaces.",
-      technologies: ["React Native", "TypeScript", "Node.js"],
-    }
-  ]
+  {
+    title: "Software Engineer Intern",
+    company: "Sillicon Tech Nepal",
+    period: "May 2023 - June 2024",
+    description:
+      "Built mobile and web apps using React Native, TypeScript, and Node.js, focusing on clean code and user-friendly interfaces.",
+    technologies: ["React Native", "TypeScript", "Node.js"],
+  },
+  {
+    title: "Full Stack Developer",
+    company: "Auditcity (Remote)",
+    period: "June 2024 - May 2025",
+    description:
+      "Developed laterical.com, an efficient web scraping and API solution using Next.js, Node.js, and Go-based pipelines. Built an AI agent for real-time daily news aggregation with a customizable API Playground. Designed REST APIs with Express.js and MongoDB (including geospatial queries) and implemented WebSockets for dynamic features. Optimized performance using Docker and AWS, ensuring scalability and security. Collaborated in Agile teams, maintaining clean and well-documented code.",
+    technologies: [
+      "Next.js",
+      "Node.js",
+      "Go",
+      "Express.js",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "WebSockets"
+    ],
+    languages: ["TypeScript", "Python", "Golang"],
+  }
+];
+
 
   return (
     <div className="min-h-screen bg-black text-white">
