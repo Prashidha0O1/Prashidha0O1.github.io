@@ -16,7 +16,7 @@ export default function Page() {
     {
       title: "Software Engineer Intern",
       company: "Sillicon Tech Nepal",
-      period: "May 2023 - November 2023",
+      period: "May 2023 - June 2024",
       description:
         "Built mobile and web apps using React Native, TypeScript, and Node.js, focusing on clean code and user-friendly interfaces.",
       technologies: ["React Native", "TypeScript", "Node.js"],
